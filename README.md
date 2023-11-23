@@ -1,7 +1,7 @@
 # Financial-Analysis
 This is an overview of my Financial Analysis project.
 
-## 1. General Information
+## General Information
 This project is the personal analysis and there are some goals generated:
 
 1. Financial Statements
